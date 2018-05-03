@@ -13,7 +13,7 @@
     <favorites_list name="Machine-Learning" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="SVM.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SVM.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
@@ -53,7 +53,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,6 +64,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,24 +133,24 @@
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.2527646" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.18852027" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4997367" weight="0.32935324" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50236964" side_tool="true" visible="true" weight="0.32935324" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50236964" side_tool="true" visible="true" weight="0.32935324" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5934703" weight="0.32935324" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49763033" visible="true" weight="0.32935324" />
-      <window_info anchor="bottom" id="Python Console" sideWeight="0.49921012" weight="0.32935324" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49605057" weight="0.26965174" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49921012" weight="0.32935324" />
       <window_info id="Structure" order="1" sideWeight="0.5014837" side_tool="true" weight="0.2527646" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4986835" weight="0.32935324" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49763033" visible="true" weight="0.32935324" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" sideWeight="0.5014837" side_tool="true" weight="0.2527646" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.5014837" side_tool="true" weight="0.2527646" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -161,6 +161,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SVM.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/matplotlib/pyplot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
@@ -171,7 +178,7 @@
     <entry file="file://$PROJECT_DIR$/SVM.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="15" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>
