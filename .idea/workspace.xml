@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d13d718b-00ec-46d8-a4fb-8e1dd6b63b02" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Data_Conversion.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Conversion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Conversion.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SVM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SVM.ipynb" afterDir="false" />
     </list>
     <ignored mask="workspace.xml" />
@@ -19,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SVM.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SVM.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SVM.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Data_Conversion.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Data_Conversion.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_Conversion.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="3" />
+              <selected id="4" />
             </state>
           </provider>
         </entry>
@@ -57,8 +57,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SVM.ipynb" />
         <option value="$PROJECT_DIR$/Data_Conversion.ipynb" />
+        <option value="$PROJECT_DIR$/SVM.ipynb" />
       </list>
     </option>
   </component>
@@ -88,7 +88,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525388445788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Going to try using TPM">
+      <created>1525456178379</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525456178380</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -161,13 +168,14 @@
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.104792" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4997367" weight="0.32935324" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5081622" side_tool="true" visible="true" weight="0.26965174" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.59136385" weight="0.3124378" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4918378" visible="true" weight="0.26965174" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49763033" weight="0.32935324" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49921012" weight="0.32935324" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51026857" side_tool="true" visible="true" weight="0.26965174" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5903107" weight="0.3124378" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.48973143" visible="true" weight="0.26965174" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49657714" weight="0.32935324" />
       <window_info id="Structure" order="1" sideWeight="0.5014837" side_tool="true" weight="0.2527646" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49499735" weight="0.32935324" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49447078" weight="0.32935324" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.5014837" side_tool="true" weight="0.2527646" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -177,7 +185,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +219,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Just a few more changes/I need to learn a little more about how to use&#10;SVMs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just a few more changes/I need to learn a little more about how to use&#10;SVMs" />
+    <MESSAGE value="Going to try using TPM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Going to try using TPM" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SVM.ipynb">
@@ -257,17 +265,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVM.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data_Conversion.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
         </state>
       </provider>
     </entry>
